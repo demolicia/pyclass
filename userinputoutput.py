@@ -1,0 +1,7 @@
+fullname=input("Enter your fullname: ")
+print("fullname:" ,fullname)
+print()
+age = int(input("Enter your age: "))
+print("age:" ,age, "years old")
+height = float(input("Enter your height in metres: "))
+print("height:" ,height, "metres")
